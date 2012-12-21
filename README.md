@@ -10,6 +10,11 @@ This repository contains a couple of terminal themes I've created using Freya co
 * Terminal.app (Snow Leopard and Lion)
 * iTerm 2
 
+Notes
+-----
+
+* The Snow Leopard Terminal.app theme only works using [TotalTerminal](http://totalterminal.binaryage.com/). The original Terminal.app doesn't support customizing ANSI colours.
+
 Credits
 -------
 
