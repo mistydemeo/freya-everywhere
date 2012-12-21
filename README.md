@@ -7,7 +7,7 @@ This is a set of terminal colour schemes themed after [Freya][freya], my favouri
 
 This repository contains a couple of terminal themes I've created using Freya colours, hopefully with more to come. Currently available:
 
-* Terminal.app (Lion)
+* Terminal.app (Snow Leopard and Lion)
 * iTerm 2
 
 Credits
