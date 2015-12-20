@@ -1,0 +1,3 @@
+[submodule "tmTheme"]
+	path = tmTheme
+	url = https://github.com/mistydemeo/freya_tmtheme

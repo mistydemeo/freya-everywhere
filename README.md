@@ -9,6 +9,7 @@ This repository contains a couple of terminal themes I've created using Freya co
 
 * Terminal.app (Snow Leopard and Lion)
 * iTerm 2
+* Sublime Text / TextMate
 
 Notes
 -----
