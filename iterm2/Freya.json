@@ -1,4 +1,5 @@
 {
+  "Working Directory" : "~",
   "Prompt Before Closing 2" : 0,
   "Selected Text Color" : {
     "Green Component" : 1,
@@ -355,6 +356,7 @@
     "Red Component" : 0
   },
   "Blur" : true,
+  "Normal Font" : "Menlo",
   "Vertical Spacing" : 1,
   "Disable Printing" : false,
   "Ansi 7 Color" : {
@@ -386,6 +388,7 @@
     "Red Component" : 0.1089642196893692
   },
   "Screen" : -1,
+  "Non Ascii Font" : "Menlo",
   "Ansi 13 Color" : {
     "Green Component" : 0.74544346332550049,
     "Blue Component" : 0.91401028633117676,
